@@ -24,3 +24,7 @@ echo "Memory information is not available in Git Bash on Windows."
 echo
 echo "Running Processes:"
 ps aux
+
+echo
+echo "Script Execution Time:"
+date
