@@ -26,5 +26,7 @@ echo "Running Processes:"
 ps aux
 
 echo
+echo "========================"
 echo "Script Execution Time:"
+echo "========================"
 date
