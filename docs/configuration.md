@@ -52,3 +52,6 @@ The project uses Git for version control.
 
 The repository contains a `.gitignore` file to prevent unnecessary
 files and sensitive configuration files from being tracked.
+## Running administration Scripts
+
+The administration scripts can be executed from the project root after execute permission has been granted.
