@@ -2,8 +2,7 @@
 
 ## Project Purpose
 
-This project is a Linux server management project developed as part
-of a DevOps workflow.
+This project provides Linux server management tools and documentation for DevOps operations.
 
 The project contains Linux administration scripts and documentation
 for installation, configuration, and troubleshooting.
