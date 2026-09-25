@@ -35,3 +35,4 @@ echo
 echo "System Status:"
 echo "Hostname: $(whoami)"
 echo "Kernel: $(uname -r)"
+echo "Current User: $(whoami)"
