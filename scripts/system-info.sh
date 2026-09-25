@@ -33,5 +33,5 @@ date
 
 echo
 echo "System Status:"
-echo "Hostname: $(hostname)"
+echo "Hostname: $(whoami)"
 echo "Kernel: $(uname -r)"
