@@ -30,3 +30,8 @@ echo "========================"
 echo "Script Execution Time:"
 echo "========================"
 date
+
+echo
+echo "System Status:"
+echo "Hostname: $(hostname)"
+echo "Kernel: $(uname -r)"
